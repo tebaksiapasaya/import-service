@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>_id</b></th><th><b>name</b></th><th><b>createdBy</b></th><th><b>isDeleted</b></th><th><b>createdAt</b></th><th><b>updatedAt</b></th><th><b>__v</b></th><th><b>tes</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>617f6e1a6eee3ae6eba5c006</td><td>test</td><td>a</td><td>null</td><td>2021-11-01T04:33:31.052Z</td><td>2021-11-01T04:33:31.052Z</td><td>0</td><td></td></tr>
+        <tr><td>617f739f6eee3ae6eba5c00a</td><td>test1</td><td>a</td><td>null</td><td>2021-11-01T04:57:03.174Z</td><td>2021-11-01T04:57:03.174Z</td><td>0</td><td></td></tr>
+        <tr><td>617f73c46eee3ae6eba5c00d</td><td>test1</td><td>a</td><td>null</td><td>2021-11-01T04:57:40.383Z</td><td>2021-11-01T04:57:40.383Z</td><td>0</td><td></td></tr>
+        <tr><td>617f73e36eee3ae6eba5c010</td><td>test</td><td>a</td><td>null</td><td>2021-11-01T04:58:11.564Z</td><td>2021-11-01T04:58:11.564Z</td><td>0</td><td></td></tr>
+        <tr><td>617f74046eee3ae6eba5c012</td><td>odooce</td><td>a</td><td>null</td><td>2021-11-01T04:58:44.031Z</td><td>2021-11-01T04:58:44.031Z</td><td>0</td><td></td></tr>
+        <tr><td>617f743a6eee3ae6eba5c014</td><td>odooce</td><td>a</td><td>null</td><td>2021-11-01T04:59:38.407Z</td><td>2021-11-01T04:59:38.407Z</td><td>0</td><td></td></tr>
+        <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><a class="btn btn-primary btn-sm" href="#"><i class="fas fa-folder"></i>View</a></td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >
